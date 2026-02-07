@@ -21,7 +21,7 @@ title: Clase de Inteligencia Artificial
       Notas de Clase - Parte 1
     </h3>
     <p style="color: #ccc; margin: 1rem 0;">
-      Primera parte de los apuntes del curso de Inteligencia Artificial. Incluye conceptos fundamentales, introducción y temas iniciales.
+      Primera parte de los apuntes del curso de Inteligencia Artificial.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
       <a href="Notas de Clase de IA - Parte 1.pdf" 
@@ -43,7 +43,7 @@ title: Clase de Inteligencia Artificial
       Notas de Clase - Parte 2
     </h3>
     <p style="color: #ccc; margin: 1rem 0;">
-      Segunda parte de los apuntes del curso. Continúa con temas avanzados y aplicaciones prácticas de la inteligencia artificial.
+      Segunda parte de los apuntes del curso.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
       <a href="Notas de Clase de IA - Parte 2.pdf" 
