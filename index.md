@@ -65,14 +65,7 @@ title: Clase de Inteligencia Artificial
 
 ## Acerca de este Sitio
 
-Este repositorio contiene mis apuntes personales de la clase de **Inteligencia Artificial**. El material está organizado en formato PDF para facilitar su consulta y descarga.
-
-### Contenido de las Notas
-
-- Fundamentos de Inteligencia Artificial
-- Algoritmos y técnicas de aprendizaje
-- Aplicaciones prácticas
-- Ejercicios y ejemplos
+Este sitio contiene notas personales tomadas durante las clases de Inteligencia Artificial. El material está organizado en formato PDF para facilitar su consulta y descarga.
 
 ---
 
