@@ -1,0 +1,32 @@
+---
+layout: default
+title: "Bienvenida al Blog de Notas"
+date: 2024-02-06
+categories: actualizaciones
+---
+
+# Bienvenida al Blog de Notas de IA
+
+¡Hola! Esta es la primera entrada del blog de notas de Inteligencia Artificial.
+
+## ¿Qué encontrarás aquí?
+
+En este espacio compartiré:
+
+- Resúmenes de las clases
+- Conceptos clave y definiciones
+- Recursos adicionales útiles
+- Análisis de temas complejos
+
+## Notas Disponibles
+
+Actualmente tengo disponibles dos partes de mis notas:
+
+1. **Parte 1**: Fundamentos e introducción a la IA
+2. **Parte 2**: Temas avanzados y aplicaciones
+
+Puedes acceder a ellas desde la [página principal](/).
+
+---
+
+**Última actualización**: {{ page.date | date: "%d de %B, %Y" }}
