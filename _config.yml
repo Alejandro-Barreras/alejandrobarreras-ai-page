@@ -4,6 +4,16 @@ plugins:
 title: Notas de la materia de Inteligencia Artificial
 author: Alejandro Barreras Gutiérrez
 
+# Configuración adicional
+markdown: kramdown
+permalink: /:title/
+
+# Collections para organizar las notas
+collections:
+  notas:
+    output: true
+    permalink: /notas/:name/
+
 
 
 
