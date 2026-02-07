@@ -24,12 +24,12 @@ title: Clase de Inteligencia Artificial
       Primera parte de los apuntes del curso de Inteligencia Artificial.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-      <a href="Notas de Clase de IA - Parte 1.pdf" 
+      <a href=" https://drive.google.com/file/d/1AHggOfsoPVUDjrrSCAu9HLhkoCu4ATzp/preview" 
          target="_blank"
          style="background-color: #b5e853; color: #000; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-flex; align-items: center; transition: all 0.3s;">
         Ver PDF
       </a>
-      <a href="Notas de Clase de IA - Parte 1.pdf" 
+      <a href="https://drive.google.com/uc?export=download&id=1AHggOfsoPVUDjrrSCAu9HLhkoCu4ATzp" 
          download
          style="background-color: transparent; color: #b5e853; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; border: 2px solid #b5e853; font-weight: bold; display: inline-flex; align-items: center; transition: all 0.3s;">
         Descargar
@@ -46,12 +46,12 @@ title: Clase de Inteligencia Artificial
       Segunda parte de los apuntes del curso.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-      <a href="Notas de Clase de IA - Parte 2.pdf" 
+      <a href="https://drive.google.com/file/d/1m-SvPh4gPRxldBoAb0K4f6_hhLEyxhvS/preview" 
          target="_blank"
          style="background-color: #b5e853; color: #000; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-flex; align-items: center; transition: all 0.3s;">
         Ver PDF
       </a>
-      <a href="Notas de Clase de IA - Parte 2.pdf" 
+      <a href="https://drive.google.com/uc?export=download&id=1m-SvPh4gPRxldBoAb0K4f6_hhLEyxhvS" 
          download
          style="background-color: transparent; color: #b5e853; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; border: 2px solid #b5e853; font-weight: bold; display: inline-flex; align-items: center; transition: all 0.3s;">
         Descargar
